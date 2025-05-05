@@ -5,7 +5,7 @@ import time
 import pandas as pd
 
 # API Configuration
-openai_api_key = "secret_roshan_6e9f9d1258e6498683ae77a7a9ddd036.cAgljTomzM5z7ixscsnDM1vG9yxXlyxa"
+openai_api_key = "<API-KEY>"
 openai_api_base = "https://api.lambda.ai/v1"
 client = OpenAI(
     api_key=openai_api_key,
